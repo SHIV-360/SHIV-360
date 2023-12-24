@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHIV-360
 - 👀 I’m interested in ...computer, space, anime
-- 🌱 I’m currently learning ...python(just start my coding journey)
+- 🌱 I’m currently learning ...python, C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shivangd262@gmail.com
 
