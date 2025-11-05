@@ -131,13 +131,13 @@ My skills aren't just academic; they're proven in competitive and professional e
 I'm always open to talking about new projects, tech, or just sharing anime recommendations.
 
 <p align="left">
-  <a href="https.linkedin.com/in/shivang-dwivedi-8137b4251/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivang-dwivedi-36o/" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shivangd262@gmail.com" target="_blank">
+  <a href="mailto:shivangd262@gmail.com" target="_blank" title="shivangd262@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://shiv-360.github.io/Shivang_Dwivedi" target="_blank">
+  <a href="https://shiv-360.github.io/Shivang_Dwivedi" target="_blank" title="View my Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
