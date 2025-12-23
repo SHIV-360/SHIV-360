@@ -137,7 +137,10 @@ I'm always open to talking about new projects, tech, or just sharing anime recom
   <a href="mailto:shivangd262@gmail.com" target="_blank" title="shivangd262@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://shiv-360.github.io/Shivang_Dwivedi" target="_blank" title="View my Portfolio">
+  <a href="https://shiv-360.github.io/Shivang_Dwivedi" target="_blank" title="Portfolio v1.0">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://shiv-360.github.io/Portfolio" target="_blank" title="Portfolio v2.0">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
